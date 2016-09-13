@@ -5,8 +5,10 @@ Version: 1.0
 Date: 2016-09-13
 Author: Zaida Liendeborg <zaili511@student.liu.se> Emma Wallentinsson
     <emmwa513@student.liu.se>
-Maintainer: Zaida Liendeborg <zaili511@student.liu.se> 
+Maintainer: Zaida Liendeborg <zaili511@student.liu.se>
 Description: Take GCD of two numbers using euclidean algortihm
 License: LiU
 RoxygenNote: 5.0.1
-Suggests: testthat
+NeedsCompilation: no
+Packaged: 2016-09-13 09:19:13 UTC; zaidaliendeborg
+Built: R 3.3.1; ; 2016-09-13 09:19:17 UTC; unix
