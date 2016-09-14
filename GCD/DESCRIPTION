@@ -10,3 +10,4 @@ Description: Take GCD of two numbers using euclidean algortihm
 License: LiU
 RoxygenNote: 5.0.1
 Suggests: testthat
+LazyData: true
