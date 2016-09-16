@@ -2,7 +2,7 @@
 #' 
 #' Takes the GCD of two numbers by using Euclidean algortihm. See \href{https://en.wikipedia.org/wiki/Euclidean_algorithm}{Wikipedia}
 #' @param a is a numeric scalar or integer.
-#' @param b is a numeric scalar or integer.
+#' @param b is a numeric  scalar or integer.
 #' @return The greates common divisor of a and b.
 #' @export
 
